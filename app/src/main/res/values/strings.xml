@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UHaulTest</string>
+    <string name="title_activity_user_selected">UserSelectedActivity</string>
+    <string name="add_new_post">Add New Post</string>
+</resources>
